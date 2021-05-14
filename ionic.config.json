@@ -1,0 +1,8 @@
+{
+  "name": "Handball_Positionsbewertung_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "54f55cc7"
+}
